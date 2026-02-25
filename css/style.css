@@ -119,3 +119,12 @@ color:white;
 text-align:center;
 padding:20px;
 }
+.highlight {
+  color: #EE9B00;   /* Gold accent from your palette */
+  font-weight: 600;
+}
+
+.hero h2 {
+  font-size: 3rem;
+  line-height: 1.3;
+}
